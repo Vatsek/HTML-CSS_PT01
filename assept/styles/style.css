@@ -4,3 +4,7 @@ h2 , h1 {
 .color_text {
     color: rgba(45, 112, 139, 0.712);
 }
+
+.img {
+    width: 200px;
+}
