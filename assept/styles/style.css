@@ -12,4 +12,6 @@ h1, h2, h3, h4 {
 .icon {
     width: 30px
 }
-
+.item {
+    display: flex;
+}
